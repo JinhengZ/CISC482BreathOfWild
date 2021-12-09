@@ -20,8 +20,6 @@ li a {
 
 
 
-
-
 .dropdown {
     float: left;
     overflow: hidden;
@@ -66,4 +64,18 @@ li a {
 
 .dropdown:hover .dropdown-content {
     display: block;
+}
+
+.boarder{
+    border-style:solid;
+    border-color:white;
+    font-size: 30px;
+    color: white;
+    border-left: 200px;
+    border-bottom-width: thick;
+
+}
+
+body{
+    background-color: #777d96 ;
 }
